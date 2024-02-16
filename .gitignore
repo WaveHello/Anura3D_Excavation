@@ -1,0 +1,43 @@
+# *.dll
+# *.mod
+# *.suo
+*.exe
+# *.obj
+# *.htm
+src/VS/Release/**
+src/VS/Debug/**
+src/VS/*.user
+src/VS/Debug/BuildLog.htm
+GiD_Files/GiD_Problemtype/Anura3D_2023.gid/dll/**
+src/MaterialModels/**
+src/OutputModules/**
+src/Shared/**
+src/VS/.vs/Anura3D/v16
+*.dll
+*.bat
+*.avi
+*.pptx
+*.INF
+*.MLG
+*.ENG
+*.vtk
+*.BMR
+*.BMS
+*.BRF_*
+*.pdf
+
+# Ignore all cps files except the first
+*.cps*
+!*.cps_001
+*.GIP*
+*.OUT
+*.PAR*
+*.TST
+*.RX
+*.dat
+*.geo
+*.lin
+*.OPD
+*.spd
+*.png
+*.png
